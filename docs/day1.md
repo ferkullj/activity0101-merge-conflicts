@@ -1,7 +1,7 @@
 ---
 title: Day 1
 output: html_document
-author: Joey Ferkull
+author: Joey Ferkull AND Ashley
 ---
 
 # Example Text
